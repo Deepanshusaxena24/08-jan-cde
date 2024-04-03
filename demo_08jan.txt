@@ -4,4 +4,5 @@ made 1st version now we are going to make 2nd version
 
 making 3rd version
 
-showing how to merge branches
+writing some lines to show how to undo from statging area
+& showing how branch works
